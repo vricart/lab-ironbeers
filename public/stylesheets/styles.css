@@ -64,3 +64,16 @@ body {
 .btn-beers {
 
 }
+
+
+
+/* BEER PAGE */
+
+#beers-container {
+    display: flex;
+}
+
+
+#beer-images {
+    height: 5rem;
+}
